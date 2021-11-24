@@ -42,6 +42,13 @@
 **Task list**
 - [] https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-19IEHImgrRpPiscjoXFSNFGjKA4-PB74XCf_jmMSncadGco1UKIb5ydw5g8Tn0ngEDU&usqp=CAU
 
+**Tabular form**
+name|s.no|rank
+----|----|----
+Neelu|1|23
+suji|2|12
+shaa|3|67
+
 
    
      
