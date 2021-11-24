@@ -47,7 +47,7 @@ name|s.no|rank
 ----|----|----
 Neelu|1|23
 suji|2|12
-shaa|3|67
+shaa|3|6
 
 
    
